@@ -1,5 +1,5 @@
 # Desenvolvendo o Dio Bank
-desenvolvido por [Nathally Souza](https://github.com/nathyts)
+desenvolvido por [Thiago Bueno](https://github.com/thiagobuenos)
 
 #### Projeto desenvolvido com conceitos básicos de typescript
 
@@ -10,7 +10,7 @@ desenvolvido por [Nathally Souza](https://github.com/nathyts)
 
 1 - Clone o repositório
 
-2 - Instale as dependeências
+2 - Instale as dependências
     
     npm install
 
@@ -19,7 +19,7 @@ desenvolvido por [Nathally Souza](https://github.com/nathyts)
     npm run dev
 
 #### Desafios
-[ ] Implementar os métodos de depósito (deposit) e saque (withdraw) na classe DioAccount
+[ X ] Implementar os métodos de depósito (deposit) e saque (withdraw) na classe DioAccount
   - Os valores dos saldos devem ser alterados, de acordo com o valor informado para depósito
   - Apenas contas com o status true e saldo (balance) maior que o valor solicitado podem fazer saques
 
